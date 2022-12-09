@@ -15,7 +15,6 @@ int main(){
          evenNum++;
     }
     }
-  
     cout << "#Even numbers = " << evenNum-1 << "\n";
     cout << "#Odd numbers = " << oddNum;
     return 0;
